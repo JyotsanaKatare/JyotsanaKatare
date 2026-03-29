@@ -6,16 +6,13 @@
 - 🌱 Learning more about Framer Motion and UI Aesthetics.
 
 ### 🛠️ My Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 📊 My GitHub Stats
-![Jyotsana's Stats](https://github-stats-alpha.vercel.app/api?username=JyotsanaKatare&cc=00d1b2&tc=ffffff&ic=00d1b2&bc=1a1a1a)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔥 My Coding Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JyotsanaKatare&theme=pink)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JyotsanaKatare&theme=dark&hide_border=true)
 
-### 📊 GitHub Activity
-![Jyotsana's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JyotsanaKatare&theme=react-dark)
+### 📊 GitHub Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JyotsanaKatare&theme=react-dark&area=true)
 
-### 🔗 Connect with me:
+### 🔗 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotsana-katare-825b24260/)
