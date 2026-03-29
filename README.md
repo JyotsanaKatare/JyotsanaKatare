@@ -8,6 +8,12 @@
 ### 🛠️ My Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 📊 My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=JyotsanaKatare&show_icons=true&theme=pink&count_private=true" alt="Jyotsana's Stats" />
+
+### 🔥 My Coding Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JyotsanaKatare&theme=pink)
+
 ### 📊 GitHub Activity
 ![Jyotsana's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JyotsanaKatare&theme=react-dark)
 
